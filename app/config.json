@@ -1,8 +1,1 @@
-{
-  "serviceName": "Service name goes here",
-  "plugins": {
-    "govuk-frontend": {
-      "rebrand": true
-    }
-  }
-}
+{"serviceName":"Repay and manage benefit money you owe"}
