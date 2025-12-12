@@ -1,8 +1,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: Repay-My-Debt-Prototype
-  title: repay-my-debt-prototype
+  name: Repay.My.Debt.Prototype
+  title: Repay-My-Debt-Prototype
   description: |
     A blank prototype kit version 13.18.1 with DWP Frontend installed
 
